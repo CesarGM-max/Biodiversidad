@@ -63,9 +63,23 @@ El "código" de esta práctica es el escenario de Make exportado como blueprint:
 
 Link también disponible en [`Video/enlace.txt`](Video/enlace.txt)
 
+## Evidencias de la prueba
+
+Prueba real hecha con una planta del campus (un arbusto de flores anaranjadas):
+
+![Tomando la foto de la planta](Imagenes/Tomando%20la%20foto%20de%20la%20planta.jpg)
+
+![Planta fotografiada](Imagenes/Planta%20fotografiada%20%28Espino%20de%20fuego%29.jpg)
+
+![Respuesta del bot - riego y cuidados](Imagenes/Respuesta%20del%20bot%20-%20riego%20y%20cuidados.jpg)
+
+![Respuesta del bot - identificación final](Imagenes/Respuesta%20del%20bot%20-%20identificacion%20final.jpg)
+
 ## Resultados
 
 [`Resultados/Resultados.pdf`](Resultados/Resultados.pdf)
+
+**Prueba realizada:** se envió al bot una foto de un arbusto con flores anaranjadas del campus. El bot identificó la planta como **Espino de fuego (*Pyracantha coccinea*)**, indicó que se veía razonablemente sana (buen fruto y follaje), qué vigilar (espinas/ramas secas, manchas negras por roya u hongos), la frecuencia de riego recomendada (cada 7–14 días según la temporada) y un tip de poda para mejorar su forma y aireación.
 
 **Observaciones sobre el comportamiento del sistema:**
 
